@@ -1,0 +1,6 @@
+Instructions for Each Framework:
+
+1. Next.js Project: (i) npx create-next-app@latest your-next-app, (ii) cd your-next-app, (iii) npm run dev 
+2. Remix Project: (i) npx create-react-router@latest your-remix-app, (ii) cd your-remix-app, (iii) npm run build
+3. Gastby Project: (i) npx create-gatsby your-gatsby-app, (ii) cd my-gatsby-site, (iii) npm run develop
+4. Expo Application: (i) npx create-expo-app your-expo-app  (ii) cd your-expo-app, (iii) npx expo start  
