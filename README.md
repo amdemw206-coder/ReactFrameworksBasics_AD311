@@ -10,6 +10,6 @@ Gaining hands-on experience with various React frameworks by setting up and deve
 ### Commands: 
 This repo already has the frameworks initialized, so all you need to do is run your framework of choice. Assuming your at the project directory (cd myapp_ReactFrameworks), run these commands at the terminal : 
 - For Next.js: (i) cd your-next-app, (ii) npm run dev 
-- For Remix: (i) cd your-remix-app, (ii) npm run build
+- For Remix: (i) cd your-remix-app, (ii) npm run dev
 - For Gatsby: (i) cd my-gatsby-site, (ii) npm run develop
 - For Expo: (i) cd your-expo-app, (ii) npx expo start
